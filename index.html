@@ -1,46 +1,43 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Lviv Places</title>
-	
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <head>
+    <title>Lviv Places</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="shortcut icon" type="image/png" href="icons/Lviv.png"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.4.0/easy-button.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.4.0/easy-button.min.js"></script>
 
-	<!-- <link rel="shortcut icon" href="Paomedia-Small-N-Flat-Map-map-marker.ico" /> -->
-	<link rel="shortcut icon" type="image/png" href="icons/Lviv.png"/>
-	<link rel="stylesheet" href="leaflet.css" />
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	<script src="leaflet.js"></script>
-	<script src="lviv-churches.js"></script>
-	<script src="jewish.js"></script>
-	<link rel="stylesheet" href="easy-button.css">
-	<script src="easy-button.js"></script>
+    <script src="lviv-churches.js"></script>
+    <script src="jewish.js"></script>
 
-	<style>
-		body {
-			padding: 0;
-			margin: 0;
-		}
-		html, body, #map {
-			height: 100%;
-		}
-		.emf{
-			color: navy;
-			font-weight:bold;
-		}
-		.info {
-    padding: 6px 8px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
-    background: white;
-    background: rgba(255,255,255,1);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    border-radius: 5px;
-}
-
-	</style>
-</head>
-<body>
-	<div id="map"></div>
-	<script src="lviv.js"></script>
-</body>
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+      }
+      html, body, #map {
+        height: 100%;
+      }
+      .emf{
+        color: navy;
+        font-weight:bold;
+      }
+      .info {
+        padding: 6px 8px;
+        font: 14px/16px Arial, Helvetica, sans-serif;
+        background: white;
+        background: rgba(255,255,255,1);
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="lviv.js"></script>
+  </body>
 </html>
