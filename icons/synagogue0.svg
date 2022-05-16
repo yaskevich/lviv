@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45mm"
+   height="60mm"
+   viewBox="0 0 159.44883 212.59843"
+   id="svg4170"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="synagogue0.svg">
+  <defs
+     id="defs4172" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-46.428571"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4175">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-839.76379)">
+    <g
+       transform="translate(-128.00522,681.36529)"
+       id="g3">
+      <polygon
+         points="176.811,273.3 180.998,280.552 185.185,273.3 "
+         id="polygon5" />
+      <polygon
+         points="180.998,304.552 176.811,311.804 185.185,311.804 "
+         id="polygon7" />
+      <polygon
+         points="213.471,261.3 209.72,254.804 205.97,261.3 "
+         id="polygon9" />
+      <polygon
+         points="205.97,323.804 209.72,330.3 213.471,323.804 "
+         id="polygon11" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 253.215,227.791 0,-34.112 -43.495,-25.112 -43.496,25.112 0,34.112 -33.751,30 0,114.493 154.493,0 0,-114.493 -33.751,-30 z m 10.198,96.013 -36.086,0 -17.607,30.496 -17.607,-30.496 -36.087,0 18.043,-31.252 -18.043,-31.252 36.087,0 17.607,-30.496 17.607,30.496 36.086,0 -18.043,31.252 18.043,31.252 z"
+         id="path13" />
+      <polygon
+         points="234.255,273.3 238.442,280.552 242.629,273.3 "
+         id="polygon15" />
+      <polygon
+         points="220.399,273.3 199.042,273.3 187.926,292.552 199.042,311.804 220.399,311.804 231.514,292.552 "
+         id="polygon17" />
+      <polygon
+         points="238.442,304.552 234.255,311.804 242.629,311.804 "
+         id="polygon19" />
+    </g>
+  </g>
+</svg>
