@@ -42,7 +42,7 @@ var overlays = {
 	"Staroyevreiska neighborhood (by <a href='https://drive.google.com/open?id=1iC3yziuM_hg50_cqHPxzvvk5Kc4&usp=sharing_eil' target='_blank'>Eugene Polyakov)": neighborhood
 };
 var myIcon = L.icon({
-	iconUrl: 'synagogue11.svg',
+	iconUrl: 'icons/synagogue11.svg',
 	// iconSize: [75, 75],
 	// iconAnchor: [37.5, 75]
 	iconSize: [46, 46],
